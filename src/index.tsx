@@ -1,6 +1,5 @@
 // import React, { useState } from 'react';
 // import ReactDOM from 'react-dom';
-
 // type PropsType = {
 // 	city: string        // 'minsk'
 // 	country: string     // 'belarus'
@@ -8,7 +7,7 @@
 // }
 
 // export const Wrapper1 = () => {
-// 	return <PropsComponent1 city='minsk' country={''} /> //! err country={''}
+// return <PropsComponent1 city='minsk' country={''} /> //! err country={''}
 // }
 
 // export const PropsComponent1: React.FC<PropsType> = (props) => {
